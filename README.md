@@ -124,12 +124,3 @@ yarn lint
 - React Toastify
 - Lucide React
 
-## License
-
-This project is licensed under the MIT License.
-
----
-
-**Maintained by [Your Name/Organization].**
-
-For questions or support, please open an issue or contact the maintainer.
