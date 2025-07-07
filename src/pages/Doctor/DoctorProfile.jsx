@@ -255,7 +255,7 @@ const DoctorProfile = () => {
                   <p className="text-gray-600 text-sm">Manage your professional details</p>
                 </div>
                 
-                <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 w-full sm:w-auto">
+                <div className="flex sm:flex-row gap-2 sm:gap-3 w-full sm:w-auto">
                   {isEdit ? (
                     <>
                       <motion.button
