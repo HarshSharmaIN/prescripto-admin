@@ -199,7 +199,7 @@ const AdminProfile = () => {
               </div>
 
               {aToken && (
-                <div className="flex flex-col sm:flex-row gap-2 sm:gap-3 w-full md:w-auto">
+                <div className="flex sm:flex-row gap-2 sm:gap-3 w-full md:w-auto">
                   {isEdit ? (
                     <>
                       <motion.button
