@@ -135,10 +135,6 @@ const DoctorDashboard = () => {
                 <card.icon className="text-white" size={20} />
               </motion.div>
             </div>
-            <div className="mt-3 sm:mt-4 flex items-center gap-2">
-              <TrendingUp className="text-green-500" size={14} />
-              <span className="text-green-600 text-xs sm:text-sm font-medium">+8% from last week</span>
-            </div>
           </motion.div>
         ))}
       </motion.div>

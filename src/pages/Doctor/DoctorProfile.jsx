@@ -400,21 +400,6 @@ const DoctorProfile = () => {
                 )}
               </div>
 
-              {/* Statistics */}
-              <div className="grid grid-cols-1 sm:grid-cols-3 gap-3 sm:gap-4 pt-4 sm:pt-6 border-t border-gray-200">
-                <div className="text-center p-3 sm:p-4 bg-blue-50 rounded-xl">
-                  <div className="text-xl sm:text-2xl font-bold text-blue-600">150+</div>
-                  <div className="text-xs sm:text-sm text-gray-600">Patients Treated</div>
-                </div>
-                <div className="text-center p-3 sm:p-4 bg-green-50 rounded-xl">
-                  <div className="text-xl sm:text-2xl font-bold text-green-600">98%</div>
-                  <div className="text-xs sm:text-sm text-gray-600">Success Rate</div>
-                </div>
-                <div className="text-center p-3 sm:p-4 bg-purple-50 rounded-xl">
-                  <div className="text-xl sm:text-2xl font-bold text-purple-600">5+</div>
-                  <div className="text-xs sm:text-sm text-gray-600">Years Experience</div>
-                </div>
-              </div>
             </div>
           </div>
         </motion.div>
